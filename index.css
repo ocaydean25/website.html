@@ -1,0 +1,90 @@
+.background{
+	background-image: url(../images/b.jpg);
+	text-align: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.nav{
+	text-align: left;
+	font-family: rockwell;
+	font-size: 28px;
+}
+.index{
+	background-color: transparent;
+	color: blue;
+}
+a{
+	color: white;
+	text-decoration: none;
+	background-color: transparent;
+	font-weight: bold;
+	margin: 0.5%;
+}
+a.active, .nav a:hover{
+	background-color:transparent;
+	color: blue;
+	width: 100%;
+}
+.profile{
+	height:600px;
+	width: 1300px;
+	border-image: 150px;
+	 display: block;
+	 margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+h1{
+	color: white;
+	text-align: center;
+	font-size: 50px;
+	margin-top: 10px;
+	font-family: verdana;
+
+}
+h3{
+	color: white;
+	font-size: 20px;
+	margin-top: -40px;
+	margin-left: 50px;
+	font-family: verdana;
+}
+.title{
+	text-align: center;
+	font-family: Courier, "Times New Roman", monospace;
+	font-size: 50px;
+	color: white;
+	margin-top: -1px;
+	text-decoration: underline;
+}
+.a{
+	height: 50px;
+	width: 50px;
+	padding: 10px;
+	border-radius: 30px;
+	right: 20px;
+}
+.b{
+	height: 50px;
+	width: 50px;
+	padding: 10px;
+	border-radius: 30px;
+	right: 20px;
+}
+.c{
+	margin-top: -100px;
+	margin-right: -995px;
+	height: 50px;
+	width: 50px;
+	padding: 10px;
+	border-radius: 30px;
+	right: 20px;
+}
+.d{
+	height: 50px;
+	width: 50px;
+	padding: 10px;
+	border-radius: 30px;
+	right: 20px;
+}

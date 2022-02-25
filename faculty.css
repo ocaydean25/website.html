@@ -1,0 +1,37 @@
+.bg{
+	background-image: url(../images/b.jpg);
+	text-align: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.navi{
+	text-align: left;
+	font-family: rockwell;
+	font-size: 28px;
+}
+.faculty{
+	background-color: transparent;
+	color: blue;
+}
+a{
+	color: white;
+	text-decoration: none;
+	background-color: transparent;
+	font-weight: bold;
+	margin: 0.5%;
+}
+a.active, .navi a:hover{
+	background-color:transparent;
+	color: blue;
+	width: 100%;
+}
+.photos{
+	margin-left: auto;
+	margin-right: auto;
+}
+.pics{
+	height: 300px;
+	width: 300px;
+	border-spacing: 50px;
+	margin: 1%;
+}
